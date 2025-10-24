@@ -20,10 +20,10 @@
 
 ### 🍎 Fruit Puzzle - Match-3 & 2048 Game
 
-[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-4CAF50?style=for-the-badge&labelColor=000000)](https://darkdetox.github.io/fruitpuzzle/)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkDetox/fruitpuzzle)
+[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-4CAF50?style=for-the-badge&labelColor=000000)](https://darkdetox.github.io/FruitPuzzle/)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkDetox/FruitPuzzle)
 
-<img src="https://img.shields.io/github/stars/DarkDetox/fruitpuzzle?style=social" alt="Stars">
+<img src="https://img.shields.io/github/stars/DarkDetox/FruitPuzzle?style=social" alt="Stars">
 
 A stunning puzzle game featuring Match-3 and 2048 modes, 36 themes, power-up inventory system, and PWA support!
 
