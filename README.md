@@ -29,7 +29,7 @@ A stunning puzzle game featuring Match-3 and 2048 modes, 36 themes, power-up inv
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP • PWA
 
-[🎮 Play Demo](https://darkdetox.github.io/fruitpuzzle/) | [📖 Documentation](https://github.com/DarkDetox/fruitpuzzle#readme)
+[🎮 Play Demo](https://darkdetox.github.io/FruitPuzzle/) | [📖 Documentation](https://github.com/DarkDetox/FruitPuzzle#readme)
 
 </div>
 
