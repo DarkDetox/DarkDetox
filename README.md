@@ -135,7 +135,7 @@ A stunning puzzle game featuring Match-3 and 2048 modes, 36 themes, power-up inv
 <b>darkdexo</b>
 </td>
 <td align="center" width="200">
-<a href="https://darkdetox.github.io/fruitpuzzle/">
+<a href="https://darkdetox.github.io/FruitPuzzle/">
 <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 <br>
