@@ -147,7 +147,7 @@ A stunning puzzle game featuring Match-3 and 2048 modes, 36 themes, power-up inv
 ### 💬 Feel free to reach out!
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarkDetox-181717?style=flat-square&logo=github)](https://github.com/DarkDetox)
-[![Twitter](https://img.shields.io/badge/Twitter-@TheDevilxyz-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/TheDevilxyz)
+[![Twitter](https://img.shields.io/badge/X-@TheDevilxyz-1DA1F2?style=flat-square&logo=X)](https://X.com/TheDevilxyz)
 [![Telegram](https://img.shields.io/badge/Telegram-@DarkDexo-26A5E4?style=flat-square&logo=telegram)](https://t.me/DarkDexo)
 [![Discord](https://img.shields.io/badge/Discord-darkdexo-5865F2?style=flat-square&logo=discord)](https://discord.com/users/darkdexo)
 [![Email](https://img.shields.io/badge/Email-darkdetox05@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:darkdetox05@gmail.com)
