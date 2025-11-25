@@ -14,6 +14,9 @@
 
 ---
 
+ <img src="https://files.catbox.moe/gyi5iu.jpg">
+</p>
+
 ## 🎮 Featured Projects
 
 <div align="center">
